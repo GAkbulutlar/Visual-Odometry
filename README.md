@@ -109,11 +109,11 @@ If you save figures or animations, store them under output.
 
 ### Camera Motion GIF
 
-![Camera motion](output/camera-motion.gif)
+![Camera motion](docs/images/camera-motion.gif)
 
 ### 3D Trajectory
 
-![3D trajectory](output/vehicle-trajectory.png)
+![3D trajectory](docs/images/vehicle-trajectory.png)
 
 ## Developer Notes
 
